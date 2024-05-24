@@ -1,7 +1,7 @@
 ## Hi there, I'm Ayda Gonzalez! 👋
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aydagonzalez15/) or email: aydagonzalezDev@gmail.com
-- ⚡ Fun fact: I have previously made proteins in a chem lab. I enjoy baking and picking up new hobbies, I am currently learning how to sew.
+- ⚡ Fun fact: I have previously made proteins in a chem lab. I enjoy baking and picking up new hobbies--currently learning to sew.
 - 🌱 I’m currently learning TypeScript.
 
 ## [Portfolio Website](https://aydagonzalez.github.io/portfolio/)
