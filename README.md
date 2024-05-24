@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 To add to my programming languages, I’m currently learning TypeScript.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aydagonzalez15/) or email: aydagonzalezDev@gmail.com
+- ⚡ Fun fact: I can also make proteins in a lab.
+  
 <!--
 **aydagonzalez/aydagonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
