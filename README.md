@@ -1,7 +1,7 @@
-## Hi there I'm Ayda Gonzalez 👋: :v:
+## Hi there, I'm Ayda Gonzalez! 👋
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aydagonzalez15/) or email: aydagonzalezDev@gmail.com
-- ⚡ Fun fact: I have previously made proteins in a chem lab. I enjoy baking and picking up new hobbies.
+- ⚡ Fun fact: I have previously made proteins in a chem lab. I enjoy baking and picking up new hobbies, I am currently learning how to sew.
 - 🌱 I’m currently learning TypeScript.
 
 ## Technical Skills
@@ -10,9 +10,9 @@
 - **Web Development:** React, Node.js, Express, MongoDB, PostgreSQL, MySQL, Django
 - **Other:** CLI, OAuth, RESTful Routing, JSON, GitHub, VSCode, Trello, Lucid
 
-## Projects
-
 ### [Portfolio Website](https://aydagonzalez.github.io/portfolio/)
+
+## Projects
 
 ### Date Night App
 A social activities hub full-stack application that allows users to plan activities using Yelp and Ticketmaster APIs.
@@ -35,6 +35,7 @@ A browser-based word-guessing game developed with HTML, CSS, and JavaScript, fea
 - **Demo:** [Spaceman Game](https://aydagonzalez.github.io/Spaceman-Game/)
 
 
+Feel free to explore my repositories and reach out if you have any questions or opportunities!
 <!--
 **aydagonzalez/aydagonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
