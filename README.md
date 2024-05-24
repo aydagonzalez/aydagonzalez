@@ -33,8 +33,8 @@
   <!-- </summary> -->
 #### Date Night App
 A social activities hub full-stack application that allows users to plan activities using Yelp and Ticketmaster APIs.
-- **Demo:** [Date Night App](https://date-night-app-57a5365aa17a.herokuapp.com/)
 - **Tech Stack:** MongoDB, Express, React, Node.js
+- **Demo:** [Date Night App](https://date-night-app-57a5365aa17a.herokuapp.com/)
 
 #### Connection Farmer
 A job and event tracking app developed with a team of developers.
