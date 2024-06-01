@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Ayda Gonzalez! 👋 </h1>
+<h1 align="center"> Hi there, I'm Ayda! 👋 </h1>
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aydagonzalez15/) or email: aydagonzalezDev@gmail.com
 - ⚡ Fun fact: I have previously made proteins in a chem lab. I enjoy baking and picking up new hobbies--currently learning to sew.
