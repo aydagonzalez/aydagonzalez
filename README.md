@@ -4,7 +4,7 @@
 - ⚡ Fun fact: I have previously made proteins in a chem lab. I enjoy baking and picking up new hobbies--currently learning to sew.
 - 🌱 I’m currently learning TypeScript.
 
-## [Portfolio Website](https://aydagonzalez.github.io/portfolio/)
+## [My Portfolio](https://aydagonzalez.github.io/portfolio/)
 
 ## Technical Skills
 
