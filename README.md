@@ -34,7 +34,7 @@ Hi there, I'm Ayda!
 <!-- <details> -->
   <!-- <summary>  -->
 
-Hi 👋 My name is Ayda N Gonzalez
+Hi 👋 My name is Ayda Gonzalez
 ================================
 
 ### Badges
