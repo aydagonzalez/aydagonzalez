@@ -4,7 +4,7 @@ Hi there, I'm Ayda!
 =======================================================================================================================================
 
 
--   🖥️  See my portfolio at [MyPortfolio](http://https://aydagonzalez.github.io/portfolio/)
+-   🖥️  See my portfolio at [MyPortfolio](http://aydagonzalez.github.io/portfolio/)
 -   ✉️  You can contact me at [aydagonzalezDev@gmail.com](mailto:aydagonzalezDev@gmail.com)
 -   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="15" height="15" />   
   Connect on [LinkedIn](https://www.linkedin.com/in/aydagonzalez15/)
